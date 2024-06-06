@@ -1,3 +1,3 @@
-This is a trial repository created for pretesting of my 
+This is a trial repository created leading to uploading my 
 assignment in Coursera 
 # testrepo
